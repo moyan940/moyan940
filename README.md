@@ -8,9 +8,9 @@ I’m passionate about solving real-world problems and creating meaningful impac
 
 ## 🛠 Tech Stack:
 - **Programming Languages:** Python, Java, Racket, HTML, CSS, JavaScript (basic), MIPS
-- **Libraries & Frameworks:** scikit-learn, Pandas, NumPy, matplotlib, Node.js (basic)
-- **Databases:** SQL, MySQL
-- **Development Tools:** Jupyter Notebooks, VSCode, MARS, DrRacket, ANTLR, Google Colab
+- **Libraries & Frameworks:** Scikit-learn, Pandas, NumPy, matplotlib, Node.js (basic)
+- **Databases:** SQL, JDBC, NoSQL
+- **Development Tools:** Jupyter Notebooks, UNIX/Linux, VSCode, MARS, DrRacket, ANTLR, Google Colab
 - **Version Control:** Git, GitHub
 
 ## 🚀 Projects:
